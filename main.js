@@ -1,4 +1,42 @@
 // Your code here.
+function getFirstName(obj) {
+
+  return obj.firstName;
+
+}
+
+//=======================================================//
+
+function getLastName(obj) {
+
+  return obj.lastName;
+
+}
+
+//=======================================================//
+
+function getFullName(obj) {
+
+  return obj.firstName + " " + obj.lastName;
+
+}
+
+//=======================================================//
+
+function setFirstName(obj, newName) {
+
+  obj.firstName = newName; 
+
+}
+
+//=======================================================//
+
+function setAge() {
+
+  
+
+
+}
 
 
 
